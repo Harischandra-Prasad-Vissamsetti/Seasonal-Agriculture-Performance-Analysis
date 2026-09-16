@@ -68,7 +68,7 @@ The **Seasonal Agriculture Performance Analysis** project explores the complex r
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Harischandra-Prasad-Vissamsetti/Seasonal-Agriculture-Performance-Analysis
+   git clone https://github.com/Harischandra-Prasad-Vissamsetti/Seasonal-Agriculture-Performance-Analysis.git
    ```
 2. **Open the environment:**
    * You can run the code locally using Jupyter Notebook or upload the `.ipynb` notebook directly into **Google Colab**.
